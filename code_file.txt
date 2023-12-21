@@ -1,0 +1,12 @@
+Network Interface:
+
+Definition: A connection point that allows a computer to connect to a network. It could be a physical network card or a virtual interface.
+Example: Ethernet interface (eth0) or wireless interface (wlan0).
+
+
+Application Programming Interface (API):
+
+Definition: Similar to a programming interface, it specifies how software components should interact at the application level.
+Example: A set of rules for how a web application can communicate with a database.
+
+In simple terms, an interface is like a bridge that allows different parts of a computer system to communicate and work together. It provides a way for users, applications, and the operating system to interact with each other or with different hardware components. The specific type of interface depends on the kind o
